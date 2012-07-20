@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Check Memory Use
-Plugin URI:
+Plugin URI: http://medicinal-plants.us/check-memory-use-wordpress-plugin-36/
 Description: This plugin shows WordPress memory usage .
 Version: 1.0
 Author: edwin-mcbride
-Author URI: 
+Author URI: http://medicinal-plants.us/check-memory-use-wordpress-plugin-36/
 License: GPL2
 */
 
