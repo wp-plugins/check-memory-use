@@ -10,7 +10,7 @@ License: GPL2
 */
 
 
-function peric_init()
+function rolingt_init()
 {
 	$memorychack["memused"] .= "ACTION HOOK: init - " . round(memory_get_usage() / 1048576,2) . " MBs\n";
 }
@@ -63,7 +63,7 @@ function merv_shutdown()
 -->";
 }
 
-add_action("init", "peric_init");
+add_action("init", "rolingt_init");
 add_action("wp_footer", "meric_footer");
 add_action("plugins_loaded", "meric_plugins_loaded");
 add_action("setup_theme", "meric_setup_theme");
